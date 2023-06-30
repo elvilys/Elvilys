@@ -1,25 +1,25 @@
-## Olá aqui a ***Elvilys*** 🌊
+## Olá aqui a ***Elvilys*** 🌊 👩🏻‍💻
 
 **Hobbies?** e claro que tenho, são minhas pequenas profissões...
 
-- 🧑🏼‍🎨 *Desenhadora de realismo*
+- 🎨 *Desenhadora de realismo*
 - 🤸🏻‍♀️ *Acrobata dança aerea*
 - 🎶🎤 *Cantora*
 - 📸 *Comunicação e audiovisuais*
 - 💌✍🏼 *Copywriting e poesia*
 - 💃🏻 *Modelo comercial*
 
-**Formação:**
+**📍Formação:**
 - Ensimo medio completo
 - Em processo a formação do **programa starter de 16a edição full stack web developer na** [Growdev](https://www.growdev.com.br/)
 
-**Experiências profissionais:**
+**📍Experiências profissionais:**
 
 - Atendimento ao cliente
 - Fotografia e edição
 - modelo comercial
 
-**Focada atualmente nas linguagens:**
+**📍Focada atualmente nas linguagens:**
 
 
 
