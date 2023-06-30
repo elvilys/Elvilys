@@ -1,16 +1,25 @@
-### Hi there 👋
+Olá aqui a ***Elvilys*** 🌊
 
-<!--
-**elvilys/Elvilys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Hobbies?** e claro que tenho, são minhas pequenas profissões...
 
-Here are some ideas to get you started:
+- 🧑🏼‍🎨 *Desenhadora de realismo*
+- 🤸🏻‍♀️ *Acrobata dança aerea*
+- 🎶🎤 *Cantora*
+- 📸 *Comunicação e audiovisuais*
+- 💌✍🏼 *Copywriting e poesia*
+- 💃🏻 *Modelo comercial*
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Formação:**
+- Ensimo medio completo
+- Em processo a formação do **programa starter de 16a edição full stack web developer na** [growdev](https://www.growdev.com.br/)
+
+**Experiências profissionais:**
+
+- Atendimento ao cliente
+- Fotografia e edição
+- modelo comercial
+
+  
+  
+  
+
