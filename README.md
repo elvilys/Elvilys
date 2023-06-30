@@ -31,9 +31,9 @@
 
   ### Você também pode me encontrar em :
 
-<a href="https://www.linkedin.com/in/elvilys-bolivar-32851811b/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a target="blank" href="https://www.linkedin.com/in/elvilys-bolivar-32851811b/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
-<a href="https://instagram.com/elvilys?igshid=OGQ5ZDc2ODK2ZA==">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a target="blank" href="https://instagram.com/elvilys?igshid=OGQ5ZDc2ODK2ZA==">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
 
 
 
